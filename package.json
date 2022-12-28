@@ -1,0 +1,14 @@
+{
+  "name": "rj-utils",
+  "version": "1.0.0",
+  "description": "for stupid rj",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "keywords": [
+    "rj"
+  ],
+  "author": "rj",
+  "license": "ISC"
+}
